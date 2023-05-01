@@ -1,4 +1,5 @@
 # ZEN-Z:<br/>
+# Deployed version :https://shiny-sfogliatella-ff4b4b.netlify.app/ <br/>
 ## Shirt Customizer:<br/>
 Shirt Customizer is a web application built using Three.js and OpenAI API to allow users to customize a 3D shirt and view it from different angles. The application includes a variety of customizations such as color, design, and patterns.
 
